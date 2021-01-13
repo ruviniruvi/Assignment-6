@@ -1,0 +1,67 @@
+
+.App-header {
+  background-color: rgb(239, 187, 205);
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.container
+{
+
+  background-color: rgb(254, 200, 216);
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+
+
+}
+
+.city-name-header
+{
+  background-color: rgb(254, 200, 216);
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+
+
+
+}
+.city-name-body
+{
+  background-color: rgb(255, 229, 244);
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+
+
+
+}
+.zip-bar
+{
+  background-color: rgb(254, 200, 216);
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+
+}
